@@ -1,7 +1,44 @@
 [
-  {"title":"Update on the .FURRY new gTLD","summary":"The gTLD Club reports a new set of publicly announced 2026 Round applications, including the .FURRY application and other newly disclosed strings.","source":"The gTLD Club","date":"2026-09-09","url":"https://www.gtld.club/"},
-  {"title":"Applicant for .PORTAL, .ISLAND and .TRUCK","summary":"Vant Nexus Technologies LLC has publicly announced applications for .PORTAL, .ISLAND and .TRUCK in the 2026 ICANN new gTLD Round.","source":"The gTLD Club","date":"2026-09-08","url":"https://www.gtld.club/2026/09/applicant-for-portal-island-and-truck.html"},
-  {"title":"Unliked — Chinese gTLD calls it quits","summary":"Domain Incite reports that Qihoo 360 has asked ICANN to terminate the registry agreement for .xihuan, a 2012-round gTLD that never launched.","source":"Domain Incite","date":"2026-09-10","url":"https://domainincite.com/31923-unliked-chinese-gtld-calls-it-quits"},
-  {"title":".phone domain gets launch dates","summary":"Domain Incite reports launch plans for .phone, including a sunrise period beginning October 6, followed by an Early Access Period and general availability.","source":"Domain Incite","date":"2026-09-09","url":"https://domainincite.com/tag/new-gtlds"},
-  {"title":"New gTLDs: what we do and don’t know about the 2026 round","summary":"Domain Incite reviewed the state of the just-closed application window and noted that the complete confirmed application count and full string list would follow later program milestones.","source":"Domain Incite","date":"2026-08-17","url":"https://domainincite.com/31864-new-gtlds-what-we-do-and-dont-know-about-the-2026-round"}
+  {
+    "title": "Update on the .FURRY new gTLD",
+    "summary": "The gTLD Club reports a new set of publicly announced 2026 Round applications, including .FURRY and a number of other newly disclosed strings.",
+    "source": "The gTLD Club",
+    "date": "2026-09-09",
+    "url": "https://www.gtld.club/"
+  },
+  {
+    "title": "New applicant announcements: .CHESS, .HUMAN and .AGENT",
+    "summary": "The gTLD Club's September 9 update lists newly announced applications including .CHESS, .HUMAN and .AGENT, alongside larger portfolios disclosed by other applicants.",
+    "source": "The gTLD Club",
+    "date": "2026-09-09",
+    "url": "https://www.gtld.club/"
+  },
+  {
+    "title": "Vant Nexus applies for .PORTAL, .ISLAND and .TRUCK",
+    "summary": "Vant Nexus Technologies LLC announced applications for the three new gTLD strings .PORTAL, .ISLAND and .TRUCK.",
+    "source": "The gTLD Club",
+    "date": "2026-09-08",
+    "url": "https://www.gtld.club/2026/09/applicant-for-portal-island-and-truck.html"
+  },
+  {
+    "title": "ShortDot announces 80 new gTLD applications",
+    "summary": "The gTLD Club's September roundup reports that ShortDot submitted 80 new gTLD applications, with most of the announced strings consisting of three letters.",
+    "source": "The gTLD Club",
+    "date": "2026-09-09",
+    "url": "https://www.gtld.club/"
+  },
+  {
+    "title": "Radix Registry announces 46 strings",
+    "summary": "The September 9 gTLD Club roundup reports that Radix Registry announced 46 strings in connection with its 2026 Round applications.",
+    "source": "The gTLD Club",
+    "date": "2026-09-09",
+    "url": "https://www.gtld.club/"
+  },
+  {
+    "title": "Starlight Registry announces 40 new gTLD applications",
+    "summary": "The gTLD Club reports that Starlight Registry announced 40 new gTLD applications, spanning strings from .AID to .WAVE.",
+    "source": "The gTLD Club",
+    "date": "2026-09-09",
+    "url": "https://www.gtld.club/"
+  }
 ]

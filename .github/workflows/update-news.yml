@@ -1,0 +1,19 @@
+name: Update weekly gTLD news
+on:
+  schedule:
+    - cron: "0 6 * * 1"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 scripts/update_news.py
+      - run: |
+          git config user.name "gtld.click news updater"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add news.json
+          git diff --cached --quiet || git commit -m "Update weekly gTLD and ICANN news"
+          git push

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gtld.click/sitemap.xml
